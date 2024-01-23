@@ -1,7 +1,7 @@
-Overview
+# Overview
 This repository contains a Java-based desktop application for a classroom reservation system. The application allows users to log in, view classroom availability, make new reservations, and cancel existing ones.
 
-Components
+## Components
 BookingConfirmation.java: A dialog for confirming bookings. Users can select facilities and specify dates for their reservation.
 
 CancelReservationDialog.java: A dialog for canceling existing reservations. Users can enter the reservation ID to cancel their booking.
@@ -22,7 +22,7 @@ ReservationSystem.java: The main class that launches the application.
 
 UserReservationDialog.java: A dialog for viewing and managing user-specific reservations.
 
-How to Use
+## How to Use
 Compile and run ReservationSystem.java to start the application.
 Log in using a valid user ID and password.
 Navigate through the application to make or cancel reservations, and view classroom availability.
